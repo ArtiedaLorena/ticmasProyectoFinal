@@ -1,0 +1,70 @@
+
+body{
+    width: fit-content;
+    height: fit-content;
+    
+}
+img{
+    border-radius: 10px;
+    border-color: black;
+    width: 6rem;
+    height: 6rem;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+li{
+    list-style: none;
+}
+h2,h3,p,ul{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h5{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif
+}
+.td-izq{
+    background-color: aqua;
+    padding: 10px;
+    margin: 20px;
+ 
+}
+.foto{
+    text-align: center;
+
+    
+}
+
+
+.contenido-principal{
+    text-align: center;
+}
+.tablas{
+    display: flex;
+    justify-content: center;
+}
+
+.contacto, .hrdSkills, .sftSkills, .references{
+    
+   text-align: justify;
+}
+
+
+
+.cuerpo{
+    background-color: azure;
+    border-width: 1px;
+  border-style: solid;
+  border-color: black;
+    padding: 50px;
+    margin: 20px;
+}
+.td-derecha{
+    
+    padding: 30px;
+    margin: 10px;
+}
